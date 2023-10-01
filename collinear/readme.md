@@ -1,1 +1,1 @@
-My implementation of collinear.
+This is my implementation of collinear.
