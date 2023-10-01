@@ -1,1 +1,1 @@
-My implementation of percolation.
+This is my implementation of percolation.
