@@ -1,1 +1,1 @@
-This is my implementation of wordnet.
+This is my implementation of boggle.
